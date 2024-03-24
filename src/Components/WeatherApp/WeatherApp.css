@@ -43,6 +43,10 @@
   display: flex;
   justify-content: center;
 }
+#icn {
+  width: 200px;
+  height: 200px;
+}
 
 .weather-temp {
   display: flex;
@@ -59,7 +63,6 @@
   font-size: 60px;
   font-weight: 400;
 }
-
 
 .element {
   margin: auto;
