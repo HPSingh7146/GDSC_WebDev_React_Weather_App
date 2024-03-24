@@ -4,7 +4,6 @@ import cloud from "../assets/cloud.png";
 import search_icon from "../assets/search.png";
 import wind_icon from "../assets/wind.png";
 import humidity_icon from "../assets/humidity.png";
-//icon_url = "https:" + data.current.condition.icon;
 let icon_url = cloud
 export const WeatherApp = () => {
   let api_key = "4008a6993a81485e9a8165713242303";
